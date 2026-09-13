@@ -15,11 +15,12 @@ Transformo dados complexos em tomadas de decisão executiva. Tenho forte atuaç�
 *   **BI & Dataviz:** Power BI (DAX Avançado), Looker, Streamlit, Chart.js.
 *   **Automação de Dados:** Python (Pandas, Numpy), n8n, Webhooks, Airflow.
 
-### 📈 Meus Principais Cases de Sucesso
-1. 🚚 **Auditoria Contratual de Fretes:** Otimização de custos logísticos usando SQL e Python.
-2. 🔄 **Modelagem de Cohort e Churn:** Análise de retenção (curvas de sobrevivência) com dbt e BigQuery.
-3. 🎯 **Cockpit RFM Analytics:** Segmentação executiva de clientes em 11 clusters via Streamlit e cálculos de quantis.
-4. ⚙️ **Automação de Alertas Proativos:** Detecção estatística de anomalias com orquestração no n8n.
+### 📈 Meus Principais Cases de Sucesso (Código Aberto)
+1. 🚚 **[Auditoria Contratual de Fretes](https://github.com/fernandoscjob/Auditoria_Fretes_Logistica):** Otimização de custos logísticos usando SQL e Python.
+2. 🔄 **[Modelagem de Cohort e Churn](https://github.com/fernandoscjob/Cohort_Retencao_Churn):** Análise de retenção (curvas de sobrevivência) com dbt e BigQuery.
+3. 🎯 **[Cockpit RFM Analytics](https://github.com/fernandoscjob/Cockpit_RFM_Analytics):** Segmentação executiva de clientes em 11 clusters via Streamlit e cálculos de quantis.
+4. ⚙️ **[Automação de Alertas Proativos](https://github.com/fernandoscjob/Orquestracao_Alertas_Anomalias):** Detecção estatística de anomalias com orquestração no n8n.
+5. 📊 **[Camada Semântica & Cockpit BI](https://github.com/fernandoscjob/Camada_Semantica_Cockpit_BI):** Governança de dados e modelagem dimensional com dbt e métricas DAX.
 
 ---
 
