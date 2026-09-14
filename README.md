@@ -1,4 +1,4 @@
-﻿# Olá! Sou o Fernando Cavalcante 📊
+# Olá! Sou o Fernando Cavalcante 📊
 
 **Analista de Dados | Especialista em BI**
 
@@ -11,7 +11,7 @@ Transformo dados complexos em tomadas de decisão executiva. Tenho forte atuaç�
 ### 🛠️ Meu Stack Técnico
 *   **Bancos de Dados:** PostgreSQL, MySQL, Oracle, BigQuery.
 *   **SQL & Modelagem:** SQL Avançado (Window Functions, CTEs), dbt, Modelagem Kimball (Star Schema), SSOT.
-*   **Estatística & Advanced Analytics:** Detecção de Anomalias (Z-Score), Análise de Sobrevivência (Cohort), Segmentação por Quantis, Análise Descritiva.
+*   **Estatística & Advanced Analytics:** Machine Learning (XGBoost, Scikit-Learn), Detecção de Anomalias (Z-Score), Análise de Sobrevivência (Cohort), Segmentação por Quantis, Análise Descritiva.
 *   **BI & Dataviz:** Power BI (DAX Avançado), Looker, Streamlit, Chart.js.
 *   **Automação de Dados:** Python (Pandas, Numpy), n8n, Webhooks, Airflow.
 
@@ -21,6 +21,7 @@ Transformo dados complexos em tomadas de decisão executiva. Tenho forte atuaç�
 3. 🎯 **[Cockpit RFM Analytics](https://github.com/fernandoscjob/Cockpit_RFM_Analytics):** Segmentação executiva de clientes em 11 clusters via Streamlit e cálculos de quantis.
 4. ⚙️ **[Automação de Alertas Proativos](https://github.com/fernandoscjob/Orquestracao_Alertas_Anomalias):** Detecção estatística de anomalias com orquestração no n8n.
 5. 📊 **[Camada Semântica & Cockpit BI](https://github.com/fernandoscjob/Camada_Semantica_Cockpit_BI):** Governança de dados e modelagem dimensional com dbt e métricas DAX.
+6. 🏦 **[Motor Preditivo de Risco de Crédito](https://github.com/fernandoscjob/Risco_Credito_Fintech_ML):** Classificação de risco e prevenção de inadimplência com Machine Learning (XGBoost), dbt e Streamlit.
 
 ---
 
